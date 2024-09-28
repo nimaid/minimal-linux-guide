@@ -4,7 +4,7 @@ A collection of resources for creating a truly minimal Linux installation.
 ## Premise
 It is no secret that Windows has become more and more bloated over the years. Telemetry, antivirus, countless services, all of these things take up an enormous amount of RAM, CPU, and disk space.
 
-It is also no secret that, by comparison, Linux environments (with proprietary drivers) tend to be more performant than Windows on the same hardware. Additionally, popular distributions like Ubuntu come with extensive support and come pre-installed with open-source version of tools like email clients, web browsers, office program suites, etc. For the average user, installing Ubuntu Desktop provides a lighter-weight OS than Windows without losing any functionality.
+It is also no secret that, by comparison, Linux environments (with proprietary drivers) tend to be more performant than Windows on the same hardware. Additionally, popular distributions like Ubuntu come with extensive support and come pre-installed with open-source versions of tools like email clients, web browsers, office program suites, etc. For the average user, installing Ubuntu Desktop provides a lighter-weight OS than Windows without losing any functionality.
 
 If you want a similar user experience to Ubuntu Desktop, but lighter-weight, distributions like Lubuntu fill that niche.
 
