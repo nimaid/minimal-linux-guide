@@ -10,6 +10,8 @@
   - The keyboard and mouse config tool.
 - `lxrandr`
   - The monitor config tool.
+- `nitrogen`
+  - The background config tool. 
 
 
 ## References
