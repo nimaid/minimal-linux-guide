@@ -4,6 +4,7 @@
   - The main window manager.
 - `tint2`
   - The taskbar.
+  - May need to compile from source if getting overflow errors.
 - `obconf`
   - The configuration tool.
 - `lxappearance` + `lxappearance-obconf`
