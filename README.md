@@ -1,4 +1,4 @@
-# minimal-linux-guide
+# Minimal Linux Setup Guide
 A collection of resources for creating a truly minimal Linux installation.
 
 ## Premise
