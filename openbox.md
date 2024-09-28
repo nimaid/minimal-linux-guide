@@ -2,6 +2,8 @@
 
 - `openbox`
   - The main window manager.
+- `tint2`
+  - The taskbar.
 - `obconf`
   - The configuration tool.
 - `lxappearance` + `lxappearance-obconf`
@@ -11,7 +13,7 @@
 - `lxrandr`
   - The monitor config tool.
 - `nitrogen`
-  - The background config tool. 
+  - The background config tool.
 
 
 ## References
