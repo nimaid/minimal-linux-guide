@@ -29,8 +29,8 @@ A high-level overview of the system is as follows:
 - Tint2 (panel / system tray)
   - Technically optional if you want to only use Alt+Tab.
 
-## Tutorial
-1. Prepare Your System
-2. Install Ubuntu Server
-3. Install The GUI Environment
-4. Configure Your Desktop
+## Guide
+1. [Prepare Your System](prepare-system.md)
+2. [Install Ubuntu Server](install-ubuntu.md)
+3. [Install The Graphical Environment](install-gui.md)
+4. [Configure Your Desktop](config-gui.md)
